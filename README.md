@@ -1,0 +1,1 @@
+[Demo here](http://lab.lasse.io/resize-accordion)
